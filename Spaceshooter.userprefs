@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemy.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Boss.cs" Line="83" Column="29" />
+      <File FileName="Assets\Scripts\Game_Over_Script.cs" Line="24" Column="41" />
+      <File FileName="Assets\Scripts\King_Pira.cs" Line="33" Column="28" />
+      <File FileName="Assets\Scripts\Player_Control.cs" Line="69" Column="32" />
+      <File FileName="Assets\Scripts\Spawn_Control.cs" Line="70" Column="20" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="56" Column="78" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
